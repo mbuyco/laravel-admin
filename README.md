@@ -1,2 +1,2 @@
-# laravel-backend-api
-A simple dockerized Laravel Backend API with Postgres Database
+# laravel-admin
+A simple dockerized admin application
